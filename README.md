@@ -10,7 +10,7 @@ This is a note application that allows the user to write, save & delete notes, u
 - [Usage](#usage)
 - [Credits](#credits)
 - [License](#license)
-- [Quesitons](#questions)
+- [Questions](#questions)
     
 ## Installation 
 This application can simply be installed by following the deployed application URL below: 
